@@ -49,6 +49,5 @@ The recommender system provides fast and relevant course suggestions, improving 
 ## Author
 
 Yousef Ellouzey  
-Graduation Project – Faculty of Engineering  
-AI Track
+
 
